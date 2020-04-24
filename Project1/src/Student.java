@@ -5,5 +5,9 @@ public class Student {
 	{
 		System.out.println("hello ");
 	}
+	public void Test()
+	{
+		System.out.println("test method");
+	}
 	
 }
